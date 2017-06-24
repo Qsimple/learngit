@@ -1,0 +1,2 @@
+my first program.
+I use git to manage codes.

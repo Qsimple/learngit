@@ -1,1 +1,3 @@
-We begin to study git!!
+We begin to study git!! we feel happy!!
+
+git is a distributed version controllor!!
